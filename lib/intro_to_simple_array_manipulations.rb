@@ -1,1 +1,2 @@
-def ususing_concat(array,)
+def ususing_concat(array1, array2)
+  array1.concat(array2)
